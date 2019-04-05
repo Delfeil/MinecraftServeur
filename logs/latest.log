@@ -1,58 +1,50 @@
-[00:10:24] [Server thread/INFO]: <reinemargot> maaax
-[00:10:33] [Server thread/INFO]: <reinemargot> thrudon vient
-[00:10:37] [Server thread/INFO]: <reinemargot> de suite
-[00:10:42] [Server thread/INFO]: <reinemargot> sinon c'est trop tard
-[00:10:52] [Server thread/INFO]: <reinemargot> coucou buzz
-[00:10:56] [Server thread/INFO]: <reinemargot> ça va ?
-[00:10:59] [Server thread/INFO]: <buzz_leclair> HELLO THERE
-[00:11:09] [Server thread/INFO]: <reinemargot> U GREAT IN THE COULOIR ?
-[00:11:33] [Server thread/INFO]: <buzz_leclair> we, y a le fourd à coté, c'est chaud
-[00:11:34] [Server thread/INFO]: <reinemargot> CAUZE I'M GREAT HERE
-[00:11:41] [Server thread/INFO]: <reinemargot> xd
-[00:11:46] [Server thread/INFO]: <reinemargot> ça fait une cheminée
-[00:12:04] [Server thread/INFO]: <reinemargot> il fait un tunnel
-[00:12:12] [Server thread/INFO]: <reinemargot> pour venir jusqyu'à chez nous
-[00:12:14] [Server thread/INFO]: <reinemargot> je crois
-[00:12:25] [Server thread/INFO]: <reinemargot> pck un chemin safe ça donne ça je crois
-[00:12:38] [Server thread/INFO]: <reinemargot> dans sa tete en tout cas
-[00:12:50] [Server thread/INFO]: <reinemargot> t f k ?
-[00:13:00] [Server thread/INFO]: <buzz_leclair> Il vas picker dans no choffres sans qu'on s'en apperceoivent
-[00:13:14] [Server thread/INFO]: <reinemargot> max voleur
-[00:13:20] [Server thread/INFO]: <reinemargot> arrete de chipper
-[00:13:25] [Server thread/INFO]: <reinemargot> et
-[00:13:33] [Server thread/INFO]: <reinemargot> VIEN DORMIR
-[00:13:37] [Server thread/INFO]: Unknown command
-[00:13:37] [Server thread/INFO]: lol<--[HERE]
-[00:13:39] [Server thread/INFO]: <reinemargot> ON S'EN FOUT DU VISUEL
-[00:14:06] [Server thread/INFO]: <reinemargot> ÇA VA NOUS SORTIR DU LIT PCK IL FERA JOUR ET T'AURAS PAS ENCORE TOUCHÉ LE LIT
-[00:14:19] [Server thread/INFO]: <reinemargot> VIENT BORDEL DE MES STECK
-[00:14:23] [Server thread/INFO]: <reinemargot> STEACK
-[00:14:27] [Server thread/INFO]: <reinemargot> FRITE
-[00:14:34] [Server thread/INFO]: <buzz_leclair> Ne parle pas de mes vaches comme ça...
-[00:14:35] [Server thread/INFO]: <reinemargot> MAIS JE VEUX QUE LA NUIT FINISSE
-[00:14:45] [Server thread/INFO]: Thrudon has made the advancement [Sweet Dreams]
-[00:14:47] [Server thread/INFO]: <reinemargot> c'est vache ca
-[00:14:56] [Server thread/INFO]: <Thrudon> Zzez
-[00:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[00:23:01] [Server thread/INFO]: reinemargot has made the advancement [Diamonds!]
-[00:29:03] [Server thread/INFO]: <Thrudon> *fait des choses à nes*
-[00:29:09] [Server thread/INFO]: <reinemargot> xd
-[00:29:18] [Server thread/INFO]: <Thrudon> ALLEZ AU LIT
-[00:29:20] [Server thread/INFO]: <reinemargot> dégeulasse
-[00:29:27] [Server thread/INFO]: <reinemargot> j'y suis
-[00:29:33] [Server thread/INFO]: <reinemargot> euh
-[00:29:36] [Server thread/INFO]: <Thrudon> dégUeulasse
-[00:29:50] [Server thread/INFO]: <Thrudon> Comme dans "ferme ta gUeule" :D
-[00:31:01] [Server thread/INFO]: Thrudon has made the advancement [Monster Hunter]
-[00:31:13] [Server thread/INFO]: buzz_leclair lost connection: Disconnected
-[00:31:13] [Server thread/INFO]: buzz_leclair left the game
-[00:32:59] [Server thread/INFO]: reinemargot lost connection: Disconnected
-[00:32:59] [Server thread/INFO]: reinemargot left the game
-[00:33:15] [Server thread/INFO]: Thrudon lost connection: Disconnected
-[00:33:15] [Server thread/INFO]: Thrudon left the game
-[00:33:21] [Server Shutdown Thread/INFO]: Stopping server
-[00:33:21] [Server Shutdown Thread/INFO]: Saving players
-[00:33:21] [Server Shutdown Thread/INFO]: Saving worlds
-[00:33:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:33:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:33:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:15:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:15:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:15:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:27] [main/INFO]: Loaded 0 recipes
+[22:15:27] [main/INFO]: Loaded 0 advancements
+[22:15:27] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[22:15:27] [Server thread/INFO]: Loading properties
+[22:15:27] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:27] [Server thread/INFO]: Generating keypair
+[22:15:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:28] [Server thread/INFO]: Using default channel type
+[22:15:29] [Server thread/INFO]: Preparing level "world"
+[22:15:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:15:30] [Server thread/INFO]: Loaded 524 recipes
+[22:15:31] [Server thread/INFO]: Loaded 571 advancements
+[22:15:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:15:31] [Server thread/INFO]: Preparing spawn area: 4%
+[22:15:31] [Server thread/INFO]: Preparing spawn area: 8%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 12%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 16%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 20%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 24%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 28%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 32%
+[22:15:32] [Server thread/INFO]: Preparing spawn area: 36%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 40%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 44%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 48%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 52%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 56%
+[22:15:33] [Server thread/INFO]: Preparing spawn area: 60%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 64%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 68%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 72%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 76%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 80%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 84%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 88%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 92%
+[22:15:34] [Server thread/INFO]: Preparing spawn area: 96%
+[22:15:35] [Server thread/INFO]: Preparing spawn area: 100%
+[22:15:35] [Server thread/INFO]: Time elapsed: 3570 ms
+[22:15:35] [Server thread/INFO]: Done (5.569s)! For help, type "help"
+[22:17:06] [User Authenticator #1/INFO]: UUID of player buzz_leclair is a0726af5-3930-4f67-86f0-9d12b5e8920e
+[22:17:06] [Server thread/INFO]: buzz_leclair[/127.0.0.1:50883] logged in with entity id 386 at (-233.44217776373762, 58.0, 0.6999999880790703)
+[22:17:06] [Server thread/INFO]: buzz_leclair joined the game
+[22:17:24] [Server thread/INFO]: buzz_leclair lost connection: Disconnected
+[22:17:24] [Server thread/INFO]: buzz_leclair left the game
